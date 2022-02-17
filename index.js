@@ -14,7 +14,7 @@ client.on("messageCreate", (message) => {
 }
 
     if(message.content == "dep!image") {
-        message.channel.send("https://cdn.discordapp.com/attachments/930553618149539980/931241494990422107/IMG_2974.png")
+        message.channel.send("https://cdn.discordapp.com/attachments/943645882820223036/943963875886387210/Axolotol.png")
     }
 
     if(message.content == "dep!server") {
