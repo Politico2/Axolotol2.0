@@ -2,7 +2,7 @@ const Discord = require("discord.js")
 const client = new Discord.Client(
     { intents: ["GUILDS", "GUILD_MEMBERS", "GUILD_MESSAGES", "DIRECT_MESSAGE_TYPING",] })
 
-client.login("OTQxNDQxMDE2MTk0NTM5NTIy.YgV_RQ.yZpdw7PnMPjWtqPs_Mcd5mAbXqw")
+client.login("OTQxNDQxMDE2MTk0NTM5NTIy.YgV_RQ.KiqZSNxnZqsbrLzJkt_g5At4B5s")
 
 client.on ("ready", () =>  {
     console.log ("Il bot è online!")
